@@ -154,7 +154,7 @@ It changed how I think about analytics.
 ## 🔗 Live Dashboard
 
 **Power BI Live Dashboard:**  
-[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTZjYjFiOGYtMTkxOS00ZDA5LTkzNTQtMDY3NGNkZjcwY2ZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmQ2MGNkMzAtM2I5Ni00NWQ0LWEzYTgtNGNjOGE2NDg2ZDk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
